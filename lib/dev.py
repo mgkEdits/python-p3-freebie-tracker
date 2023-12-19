@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 
 from freebie import Freebie
 from company import Company
